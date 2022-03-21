@@ -25,3 +25,5 @@ if __name__ == '__main__':
     b = int(b)
     c = a + b
     print(c)
+
+    input()

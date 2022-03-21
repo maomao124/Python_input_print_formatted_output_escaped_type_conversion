@@ -41,3 +41,5 @@ if __name__ == '__main__':
     n5 = oct(n1)
     print(n5)
     print(type(n5))
+
+    input()

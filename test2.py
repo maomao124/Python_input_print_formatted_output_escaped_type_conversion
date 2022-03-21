@@ -32,3 +32,4 @@ if __name__ == '__main__':
 
     file = open("test2.txt", "a")
     print("hello", file=file)
+    input()

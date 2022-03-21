@@ -27,3 +27,4 @@ if __name__ == '__main__':
     print("1\t2\t3\t4")
     print("\a")
 
+    input()
